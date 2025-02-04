@@ -1,0 +1,6 @@
+.page-with-background {
+    background-image: url(https://i.imgur.com/5edLdin.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}

@@ -1,0 +1,41 @@
+.movie-card {
+    background-color: #212529 !important;
+    color: #ccc !important;
+}
+
+.movie-card .card-poster-1 {
+    height: 300px;
+    object-fit: cover;
+}
+
+.movie-card .card-poster-2 {
+    height: 400px;
+    object-fit: cover;
+}
+
+.movie-card .card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.movie-card .card-genres {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.movie-card .card-cast {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.movie-toast {
+    background-color: #28a745 !important;
+    color: white;
+}
+
+.movie-toast-container {
+    position: fixed;
+}
